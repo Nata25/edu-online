@@ -36,6 +36,7 @@ section {
   width: 10%;
 }
 h1 {
+   padding: 10px;
   text-align: center;
 }
 section h1 {
