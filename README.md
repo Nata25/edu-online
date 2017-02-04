@@ -6,6 +6,8 @@ This is a student work and a final project for [Responsive Website Basics: Code 
 
 ## Tech details:
 
+- no design template was provided; the page was made from scratch.
+
 - HTML5 semantic tags for definitions and quotes.
 
 - Bootstrap grid layout and styles. The page is fully responsive (HD, tablets, mobile screens) with only one @media query to manage logos of different width.
